@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/nittxshh" target="blank"><img src="https://img.shields.io/twitter/follow/nittxshh?logo=twitter&style=for-the-badge" alt="nittxshh" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Test automation and dev ops**
 
 - 📫 How to reach me **anujniteshgupta2006@gmail.com**
 
